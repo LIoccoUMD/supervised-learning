@@ -27,7 +27,7 @@ git clone https://github.com/LIoccoUMD/supervised-learning/
 cd supervised-learning
 python Supervised_Learning.ipynb
 
-## OR, for an easier setup
+### OR, for an easier setup
 - Open in Google Colab
 - Download the linked dataset
 - Run directly in Colab
