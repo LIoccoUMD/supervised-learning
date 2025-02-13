@@ -23,8 +23,8 @@ To run this project:
 - Make sure it is in a reachable location
 
 ```bash
-git clone [https://github.com/LIoccoUMD/supervised-learning/]
-cd [supervised-learning]
+git clone https://github.com/LIoccoUMD/supervised-learning/
+cd supervised-learning
 python Supervised_Learning.ipynb
 
 ### OR, for an easier setup
