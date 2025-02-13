@@ -1,6 +1,7 @@
 # Supervised Learning Project
 
-This repository contains code for a supervised learning project aimed at predicting student GPA using various machine learning algorithms. Here's an overview:
+This repository contains code for a supervised learning project aimed at predicting student GPA using various machine learning algorithms.
+NOTE: The error in the ipynb file is there to show that the dataset _must_ be downloaded before running the file.
 
 ## Project Overview
 
